@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include bondinsurance *.css
+recursive-include bondinsurance *.csv
+recursive-include bondinsurance *.html
+recursive-include bondinsurance *.ico
+recursive-include bondinsurance *.js
+recursive-include bondinsurance *.json
+recursive-include bondinsurance *.md
+recursive-include bondinsurance *.png
+recursive-include bondinsurance *.py
+recursive-include bondinsurance *.svg
+recursive-include bondinsurance *.txt
+recursive-exclude bondinsurance *.pyc
