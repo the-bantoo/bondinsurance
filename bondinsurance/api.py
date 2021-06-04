@@ -50,7 +50,7 @@ def convert(xmldata, main):
 """
     Callable through the API with a string parameter. For example:
     
-        POST https://marketplace.thebantoo.com/api/method/bondinsurance.api.make_policy_entry HTTP/1.1
+        POST https://sitename.com/api/method/bondinsurance.api.make_policy_entry HTTP/1.1
         
         Content-Type: application/json
         Authorization: token keyapi_key:api_secret
